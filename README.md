@@ -19,3 +19,5 @@ Miguel de Cervantes (1605)
 
 [Enlace al sitio web de la UCR](https://www.ucr.ac.cr/)  
 [Enlace al programa del curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pdf)  
+
+![](https://www.r-project.org/logo/Rlogo.png)
