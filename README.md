@@ -12,7 +12,7 @@ _Otro texto en itálica_
 **Texto en negrita**  
 __Otro texto en negrita__
 
-> En un lugar de La Mancha
-> de cuyo nombre no quieroacordarme...
+> En un lugar de La Mancha  
+> de cuyo nombre no quiero acordarme...
 
 Miguel de Cervantes (1605)
