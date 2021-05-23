@@ -4,3 +4,9 @@
 #### encabezado de nivel 4
 ##### encabezado de nivel 5
 ###### encabezado de nivel 6
+
+
+*Texto en itálica*
+
+
+_Otro texto en itálica_
