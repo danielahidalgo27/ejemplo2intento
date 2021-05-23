@@ -21,3 +21,4 @@ Miguel de Cervantes (1605)
 [Enlace al programa del curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pdf)  
 
 ![](https://www.r-project.org/logo/Rlogo.png)
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="Logo de R" width="50">
