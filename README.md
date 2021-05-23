@@ -6,7 +6,8 @@
 ###### encabezado de nivel 6
 
 
-*Texto en itálica*
-
-
+*Texto en itálica*  
 _Otro texto en itálica_
+
+**Texto en negrita**  
+__Otro texto en negrita__
