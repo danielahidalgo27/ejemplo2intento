@@ -18,4 +18,5 @@ __Otro texto en negrita__
 Miguel de Cervantes (1605)
 
 [Enlace al sitio web de la UCR](https://www.ucr.ac.cr/)  
-[Enlace al programa del curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pdf)
+[Enlace al programa del curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pdf)  
+[Otro enlace al programa del curso](file:///C:/Users/hidal/Downloads/gf0604-procesamientodatosgeograficos-g001-2021i%20(1).pdf)
