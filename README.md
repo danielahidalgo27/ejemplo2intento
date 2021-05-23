@@ -16,3 +16,5 @@ __Otro texto en negrita__
 > de cuyo nombre no quiero acordarme..."*
 
 Miguel de Cervantes (1605)
+
+[Enlace al sitio web de la UCR](https://www.ucr.ac.cr/)
